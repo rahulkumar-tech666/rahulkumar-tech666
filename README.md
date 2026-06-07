@@ -1,39 +1,17 @@
- <h1 align="center">Hi 👋, I'm RAHUL KUMAR </h1>
+<h1 align="center">Hi 👋, I'm RAHUL KUMAR</h1>
+<h3 align="center">A passionate MERN STACK developer from India</h3>
 
-- 🔭 I’m currently working on FULLSTACK
-- 🌱 I’m currently learning Backend
+<img align="right" width="400px" src="C:\Users\ASUS\OneDrive\Desktop\gif.gif">
 
-- 
--  <img align="right" width="400px" src="C:\Users\ASUS\OneDrive\Desktop\gif.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar-tech666&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar-tech666" /> </p>
 
+- 🌱 I’m currently learning **backend development**
 
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/axiftaj">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a href="https://www.instagram.com/axif_taj">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahul kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thataestheicgirl666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thataestheicgirl666" height="30" width="40" /></a>
+</p>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
-
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img 
