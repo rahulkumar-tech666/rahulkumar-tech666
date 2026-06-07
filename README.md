@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on FULLSTACK
 - 🌱 I’m currently learning Backend
--  
+
+- 
+-  <img align="right" width="400px" src="C:\Users\ASUS\OneDrive\Desktop\gif.gif">
 
 
   
